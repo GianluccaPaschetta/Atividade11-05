@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 70vh;
+    background-image: url(https://picsum.photos/1980/1080/);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.text-justify{ 
+    text-align: justify;
+}
